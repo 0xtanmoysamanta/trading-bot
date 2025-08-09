@@ -1,5 +1,5 @@
 # trading-bot
-Below is the README file for the Python Stock Market Analysis Bot in Markdown (`.md`) format. It includes an overview, installation instructions, usage examples, and other relevant details, formatted for clarity and compatibility with platforms like GitHub.
+Below is the README file for the Python Stock Market Analysis Bot 
 
 ```markdown
 # Stock Market Analysis Bot
