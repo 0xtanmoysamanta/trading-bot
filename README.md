@@ -119,12 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, contact [your email or GitHub profile].
+For questions or support, contact [tanmoy-samanta@realshit.space].
 ```
 
-### Notes
-- **Repository Setup**: Replace `yourusername` with your actual GitHub username if hosting this on GitHub. Ensure you include a `LICENSE` file in the repository (e.g., MIT License).
-- **Customization**: If you want to include additional sections (e.g., visualization code, backtesting examples, or specific installation steps for other platforms), let me know, and I can update the README.
-- **Saving the File**: Save this content as `README.md` in your project directory for proper rendering on GitHub or other platforms.
-
-Would you like me to generate a `LICENSE` file in Markdown format or add specific sections to the README, such as visualization or backtesting examples?
